@@ -1,16 +1,6 @@
-# fashion_app
+# Flutter Fashion App Design
+Simple social media app design with flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home Page             |  Full screen Image
+:-------------------------:|:-------------------------:
+![Screenshot_1658419202](https://user-images.githubusercontent.com/72457200/180261485-2ebbe487-4f4d-4d16-abe6-e09c2b93f69e.png) | ![Screenshot_1658419207](https://user-images.githubusercontent.com/72457200/180261594-33e126e4-62ab-4f62-b886-756643136243.png)
